@@ -1,8 +1,6 @@
 # Hi there, im MoDeW
 <img align="right" src="https://cdn.discordapp.com/avatars/1061333917858275421/a_2281878fdcf82ee2866b8004f8e47ae9.gif?size=1024" width="36%" />
-
-# About Me:
- Name is Hosein Fendereski I am a developer to 16 language developer
+ My Name is Hosein Fendereski I am a developer to 16 language developer
 
 
 # Socials:
