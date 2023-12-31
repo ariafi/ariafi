@@ -1,6 +1,10 @@
 # Hi there, im MoDeW
 <img align="right" src="https://s6.uupload.ir/files/a_2281878fdcf82ee2866b8004f8e47ae9_s4dc.gif" width="36%" />
  My Name is Hosein Fendereski I am a developer to 16 language developer
+ I don't like to describe myself too much, but I can say that I can do anything and I can provide you from graphic work to artificial intelligence...
+ Among my interests, I can mention books of poetry, books of Masnavi, and anecdotes, which I love, and among my favorite colors I can mention green, purple, and pink, and my favorite games are FPS or shooters, and in my free time, I write code and use code. I love
+ Among the music that I like, I can say relaxation and classical genres like Nils Hahn
+ 
 
 
 # Socials:
